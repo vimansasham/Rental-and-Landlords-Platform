@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117409856305",
+    "project_id": "rentals-and-landlords",
+    "storage_bucket": "rentals-and-landlords.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117409856305:android:6c59ab59391dc99c868e10",
+        "android_client_info": {
+          "package_name": "com.rentalsandlandlords.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB16fDfEY6jbMSd3jgyxrEYV45R34YiqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
